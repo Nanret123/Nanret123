@@ -1,4 +1,4 @@
-### Hi there friends 👋. I'm Nanret. I'm a self-taught developer currently learning MERN Stack Web development. I'd like to work and collaborate with people who will help me in my tech journey. Gracias.  
+### Hi there friends 👋. I'm Nanret. I'm a junior developer currently learning MERN Stack Web development. I'd like to work and collaborate with people who will help me in my tech journey. Gracias.  
 
 <!--
 **Nanret123/Nanret123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
