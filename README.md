@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Nanret</h1>
 
-Hi, i'm Nanret. I am a Junior Software Engineer and a self taight developer. I am currently learning MERN Stack Development by building life-changing applications and also learning about open source.
+Hi, i'm Nanret. I am a Junior Software Engineer and a self-taught developer. I am currently learning MERN Stack Development by building life-changing applications and also learning about open source.
 
 - 🌱 I’m currently learning **MERN stack development**
 
