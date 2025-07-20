@@ -45,11 +45,11 @@
 
 ## 🌟 Featured Projects
 
-- 💼 **Banking Management System**  
+- 🏦 **[Core Banking Management System API](https://github.com/Nanret123/bank_java)** 
   → Spring Boot API with double-entry ledger, secure auth, audit logs, file uploads
 
-- 🛒 **E-commerce Platform**  
-  → Full-stack app (React + NestJS) with secure auth, admin dashboard, Flutterwave integration
+- 🛒 **[E-commerce Backend API](https://github.com/Nanret123/ecommerce-backend)**  
+  NestJS backend with authentication, file upload (Cloudinary), email service, order management, and role-based access control.
 
 ---
 
