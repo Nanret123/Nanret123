@@ -1,41 +1,70 @@
-<!--### Hi there friends 👋. I'm Nanret. I'm a junior developer currently learning MERN Stack Web development. I'd like to work and collaborate with people who will help me in my tech journey. Gracias.  -->
-
-<!--
-**Nanret123/Nanret123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Nanret</h1>
+<p align="center">
+  A <b>Full-Stack Web Developer</b> with a strong focus on <b>Backend Engineering</b>.
+</p>
 
-Hi, i'm Nanret. I am a Junior Software Engineer and a self-taught developer. I am currently learning MERN Stack Development by building life-changing applications and also learning about open source.
+---
 
-- 🌱 I’m currently learning **MERN stack development**
+## 🧠 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nanret123](https://github.com/Nanret123)
+- 🧑‍💻 Full-Stack Developer with **3+ years** building scalable, production-grade web applications  
+- 🏦 Hands-on experience in **Banking & Fintech** – built a full core banking system with JWT authentication  
+- 🎨 Strong in **Frontend Engineering** – intuitive UI/UX with modern React, Tailwind, and motion design  
+- 🚀 Currently learning **Microservices**, **DevOps**, and **System Design**  
+- 📫 Reach me at: **nanretgungshik@gmail.com**
 
-- 📫 How to reach me **nanretgungshik@gmail.com**
+---
 
-- 🌱 I would like to learn **blockchain development**
+## 🛠️ Tech Stack
 
-- ⚡ Fun fact **I like meeting new people**
+### 🚀 Backend
 
-### Tools I Like To Use
-- React
-- Javascript
-- Bootstrap
-- Node js
-- Tailwind CSS
-- Mongo DB
+- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
+- ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)  
+- **PostgreSQL**, **MongoDB**, **Redis**  
+- **AWS S3**, **Cloudinary**  
+- **MapStruct**, **Liquibase**, **Docker**
+
+### 💻 Frontend
+
+- ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)
+- ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+- ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23764ABC.svg?style=flat&logo=redux&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=flat&logo=tailwind-css&logoColor=white)  
+- **Framer Motion**, **Formik**, **Yup**, **Recharts**  
+- **Remixicon**, **Lucide React**
+
+### 🧪 Tools & Platforms
+
+- ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+- ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat&logo=swagger&logoColor=black)
+
+---
+
+## 🌟 Featured Projects
+
+- 💼 **Banking Management System**  
+  → Spring Boot API with double-entry ledger, secure auth, audit logs, file uploads
+
+- 🛒 **E-commerce Platform**  
+  → Full-stack app (React + NestJS) with secure auth, admin dashboard, Flutterwave integration
+
+---
+
+## 📂 Projects & Portfolio
+
+🔗 GitHub: [github.com/Nanret123](https://github.com/Nanret123)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: **nanretgungshik@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/your-link](#) <!-- Replace with your real profile -->
+
+---
 
 
 
